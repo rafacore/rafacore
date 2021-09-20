@@ -10,8 +10,9 @@
   
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight" alt=""/> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacore&layout=compact&theme=tokyonight" alt=""/> 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight) -->
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacore&layout=compact&theme=tokyonight)](https://github.com/rafacore/github-readme-stats)
