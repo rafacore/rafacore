@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  -->
   
 
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight
+" alt="LinkedIn"/> 
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacore&layout=compact&theme=tokyonight)](https://github.com/rafacore/github-readme-stats)
