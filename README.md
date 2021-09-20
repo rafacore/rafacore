@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacore&layout=compact&theme=tokyonight)](https://github.com/rafacore/github-readme-stats)
 
-<a href="https://www.linkedin.com/in/rafaelandradedonascimento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" > </a>
+<a href="https://www.linkedin.com/in/rafaelandradedonascimento/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"> </a>
 
 
 
