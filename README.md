@@ -2,13 +2,13 @@
 
 <div>
   
-  <a href="https://www.linkedin.com/in/rafaelandradedonascimento/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafaelandradedonascimento/" target="_blank">  </a>
     
     <img src="https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight
 " alt="LinkedIn"/> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
   
-  </a>
+
 
 
   
