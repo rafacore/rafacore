@@ -5,7 +5,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafacore&count_private=true&show_icons=true&theme=tokyonight" alt=""/> 
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacore&layout=compact&theme=tokyonight" alt=""/> 
 </div>
-<div>
+<div style="margin: 30px">
    <a style="margin: 30px" href="https://www.linkedin.com/in/rafaelandradedonascimento/" target="_blank"><img style="margin: 30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 </div>
 
