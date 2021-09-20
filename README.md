@@ -28,11 +28,6 @@ Reach me on: <div style="margin: 30px">
 </div>
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafacore&repo=github-readme-stats)](https://github.com/rafacore/github-readme-stats)
-
-
-api/pin?username=anuraghazra&repo=github-readme-stats
 ##
 
 
