@@ -1,5 +1,4 @@
-### Hi there 👋  <br/> 
-<br/> I'm Rafael Nascimento, a Brazilian and life-long learner.
+### Hi there 👋  <br/> <br/>  I'm Rafael Nascimento, a Brazilian and life-long learner.
 
 
 I've been working as a front-end developer with ambition and to be a full-stack developer keen to provide the best solutions.
