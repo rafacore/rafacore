@@ -11,7 +11,7 @@ I've been working as a front-end developer with the ambition to become a full-st
 </div>
 
 <br/>
-The stack that I'm more experienced but not limited to is: 
+The stack that I have more experience but I'm not limited to, is: 
 <div>
   <br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
