@@ -29,10 +29,10 @@ Reach me on: <div style="margin: 30px">
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafacore&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafacore&repo=github-readme-stats)](https://github.com/rafacore/github-readme-stats)
 
 
-
+api/pin?username=anuraghazra&repo=github-readme-stats
 ##
 
 
