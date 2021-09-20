@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/rafaelandradedonascimento/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" > </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafacore&repo=github-readme-stats&theme=tokyonight)](https://github.com/rafacore/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafacore&repo=github-readme-stats)](https://github.com/rafacore/github-readme-stats)
 
 
 
